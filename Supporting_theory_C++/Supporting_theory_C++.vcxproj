@@ -24,6 +24,7 @@
     <ProjectGuid>{84d3b87c-401c-4954-8d22-5a9e572ac8fb}</ProjectGuid>
     <RootNamespace>SupportingtheoryC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Not_recommended_style</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
